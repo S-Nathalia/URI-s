@@ -9,7 +9,7 @@
 
 #### Semana 1: (Apresentação em: 13/03/2021)
 
-- [ ] 1015
+- [x] 1015
 
 - [ ] 1017 (opcional)
 
