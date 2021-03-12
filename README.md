@@ -17,7 +17,7 @@
 
 - [x] 1036
 
-- [ ] 1042 (Implementar SORT)
+- [x] 1042 (Implementar SORT)
 
 - [ ] 1061
 
