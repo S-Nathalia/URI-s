@@ -4,7 +4,7 @@ str = []
 for i in range(len(list)):
     str.append(list[i])
 
-def selection(list):
+def bubble(list):
     maior = 0
     for i in range(len(list)-1):
         for k in range(len(list)-1):
@@ -14,7 +14,7 @@ def selection(list):
                 list[k+1] = maior
     return list
 
-list = selection(list)
+list = bubble(list)
 
 for i in range(len(list)):
     print(list[i])

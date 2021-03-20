@@ -11,7 +11,7 @@ d1 = int(dia1[1])
 d2 = int(dia2[1])
 d2 = d2 - d1
 
-for i in range(len(time1)):
+for i in range(3):
     time_fim.append(time2[i] - time1[i])
 
 if(time_fim[2] < 0):
