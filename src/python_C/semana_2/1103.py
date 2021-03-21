@@ -1,10 +1,13 @@
 str = "0 0 0 0"
-entrada = input()
 min = []
 aux = 0
 aux2 = 0
 
-while(entrada != str):
+while(True):
+    entrada = input()
+    if(entrada == str):
+        break
+
     min = list(map(int, entrada.split(" ")))
     # horas transformadas em min
     min[0] = min[0] * 60
@@ -21,4 +24,3 @@ while(entrada != str):
         print(aux + min[2])
     else:
         print(min[2] - min[0])
-    entrada = input()
