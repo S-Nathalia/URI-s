@@ -5,8 +5,9 @@ while(True):
     if(x1 == 0):
         break
 
-    x = x2 - x1
-    y = y2 - y1
+    # abs = valor absoluto i.e. 1 = abs(-1)
+    x = abs(x2 - x1)
+    y = abs(y2 - y1)
 
     # se x1 e x2 e y1 e y2 forem iguais, sera o mesmo ponto
     if(x1 == x2 and y1 == y2):
@@ -16,7 +17,8 @@ while(True):
     elif(x1 == x2 or y1 == y2):
         print(1)
 
-    elif(x == y or x == -(y) or -(x) == y):
+    # movimentacao das diagonais
+    elif(x == y):
         print(1)
 
     else:
