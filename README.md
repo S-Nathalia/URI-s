@@ -11,7 +11,7 @@
 
 - [x] 1015
 
-- [x] 1017 (opcional)
+- [x] 1017 (Opcional)
 
 - [x] 1037
 
@@ -27,9 +27,9 @@
 #### Semana 2: (Apresentação em: 21/03/2021)
 
 
-- [ ] 1031
+- [ ] 1031 (Opcional)
 
-- [ ] 1140 (Fazer na Linguagem C)
+- [ ] 1140 (Fazer utilizando a linguagem C)
 
 - [ ] 1103
 
@@ -45,19 +45,18 @@
 
 #### Semana 3: (Apresentação em: 27/03/2021)
 
-- [ ] .
+- [ ] 1253 (Tabela ascii????)
 
-- [ ] .
+- [ ] 1168 (Fazer utilizando a linguagem C)
 
-- [ ] .
+- [ ] 1238 (Usar lista encadeada em C)
 
-- [ ] .
+- [ ] 1367 (Opcional)
 
-- [ ] .
+- [ ] 1332
 
-- [ ] .
+- [ ] 1089
 
-- [ ] .
 
 
 
