@@ -29,7 +29,7 @@
 
 - [ ] 1031 (Opcional)
 
-- [ ] 1140 (Fazer utilizando a linguagem C)
+- [x] 1140 (Fazer utilizando a linguagem C)
 
 - [ ] 1103
 
