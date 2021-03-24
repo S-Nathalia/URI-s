@@ -31,7 +31,7 @@
 
 - [x] 1140 (Fazer utilizando a linguagem C)
 
-- [ ] 1103
+- [x] 1103
 
 - [x] 1129
 
