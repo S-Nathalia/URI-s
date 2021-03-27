@@ -45,9 +45,9 @@
 
 #### Semana 3: (Apresentação em: 27/03/2021)
 
-- [ ] 1253 (Tabela ascii????)
+- [x] 1253 (Tabela ascii????)
 
-- [ ] 1168 (Fazer utilizando a linguagem C)
+- [x] 1168 (Fazer utilizando a linguagem C)
 
 - [ ] 1238 (Usar lista encadeada em C)
 
