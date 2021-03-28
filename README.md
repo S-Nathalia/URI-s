@@ -47,13 +47,13 @@
 
 - [x] 1253 (Tabela ascii????)
 
-- [x] 1168 (Fazer utilizando a linguagem C)
+- [x] 1168 (Fazer utilizando a linguagem C) 
 
 - [ ] 1238 (Usar lista encadeada em C)
 
 - [ ] 1367 (Opcional)
 
-- [ ] 1332
+- [x] 1332
 
 - [ ] 1089
 
