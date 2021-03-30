@@ -16,7 +16,7 @@ int main() {
             next = toupper(token[0]);
             // a cada divisao de " ", token recebe a proxima palavra
             token = strtok(NULL, " ");
-            // se as palavras proximas letras forem != da da primeira
+            // se as proximas letras forem != da da primeira
             // nao temos um tautograma
             if (first != next)
                 flag = 0;
