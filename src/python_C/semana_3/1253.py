@@ -15,6 +15,6 @@ for i in range(q):
             saida += chr(91 - (65 - idx)) # 91 = Z + 1, 65 = A; ou seja, o idx
                                           # q esteja dentro do intervalo de A-Z
         else:
-            saida += chr(ord(l)-q) # caso contrario a posicao de l menos as casas
-                                   # que se deve pular
+            saida += chr(idx) # caso contrario a posicao de l menos as casas
+                              # que se deve pular
     print(saida)

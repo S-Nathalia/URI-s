@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 int main() {
-    int flag, qt;
-    char line[3000], first, next, *token;
-    while (fgets(line, 3000, stdin) != NULL) {
+    short flag, qt;
+    char line[1001], first, next, *token;
+    while (fgets(line, 1001, stdin) != NULL) {
         flag = 1;
         first = toupper(line[0]);
         if (first == '*')
@@ -12,7 +12,7 @@ int main() {
         qt = 0;
         // dividir a linha pelo \n
         token = strtok(line, " \n");
-        while (token != NULL) {
+        while (token != NULL && flag != 0) {
             next = toupper(token[0]);
             // a cada divisao de " ", token recebe a proxima palavra
             token = strtok(NULL, " ");
